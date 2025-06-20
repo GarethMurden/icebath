@@ -132,5 +132,5 @@ To customise the logo, replace `pico/logo.bmp` with a new bitmap image of the sa
 
 ### Demo
 
-![video of monitor that displays a logo, then a temperature reading that updates every 10 seconds](https://bitbucket.org/pangolinpaw/projector/raw/de4a6fa7137e3ecd25a56eb3aa9c424d516fcf2d/screenshots/pico_demo.gif)
+![video of monitor that displays a logo, then a temperature reading that updates every 10 seconds](https://github.com/GarethMurden/icebath/blob/master/screenshots/pico_demo.gif?raw=true)
 
