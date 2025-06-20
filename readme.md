@@ -89,7 +89,7 @@ To customise the logo, replace `assets/logo.png` with a new transparent backgrou
 
 ### Demo
 
-![animation showing logo fade to reveal a temperature reading that updates every 4 seconds](https://bitbucket.org/pangolinpaw/projector/raw/de4a6fa7137e3ecd25a56eb3aa9c424d516fcf2d/screenshots/zero_demo.gif)
+![animation showing logo fade to reveal a temperature reading that updates every 4 seconds](https://github.com/GarethMurden/icebath/blob/master/screenshots/zero_demo.gif?raw=true)
 
 
 ------
